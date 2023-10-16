@@ -1,1 +1,0 @@
-py main.py -d "BlueDrum.mp4"
